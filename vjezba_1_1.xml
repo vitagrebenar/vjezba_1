@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Marko</ime>
+    <prezime>Markovic</prezime>
+    <JMBAG>12345</JMBAG>
+    <datumRodenja>01-01-2005</datumRodenja>
+    <godinaStudija>2</godinaStudija>
+    <studijskiProgram>Informatički dizajn</studijskiProgram>
+    
+    <adresa>
+        <ulica>Ilica 1</ulica>
+        <grad>Zagreb</grad>
+        <postanskiBroj>10000</postanskiBroj>
+    </adresa>
+</student>
