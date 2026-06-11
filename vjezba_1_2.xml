@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Marko</ime>
+    <prezime>Markovic</prezime>
+    <JMBAG>12345</JMBAG>
+    <datumRodenja>01-01-2005</datumRodenja>
+    <godinaStudija>2</godinaStudija>
+
+    <kontakt>
+        <email>marko.markovic@example.com</email>
+        <telefon>0123456789</telefon>
+    </kontakt>
+
+    <kolegiji>
+        <kolegij>
+            <naziv>Programiranje 1</naziv>
+            <imeProfesora>Prof. Dr. Ivan Horvat</imeProfesora>
+            <brojECTS>6</brojECTS>
+        </kolegij>
+        <kolegij>
+            <naziv>Matematika 1</naziv>
+            <imeProfesora>Doc. Dr. Ana Anić</imeProfesora>
+            <brojECTS>5</brojECTS>
+        </kolegij>
+        <kolegij>
+            <naziv>Osnove ekonomije</naziv>
+            <imeProfesora>Prof. Dr. Tomislav Kovač</imeProfesora>
+            <brojECTS>4</brojECTS>
+        </kolegij>
+    </kolegiji>
+</student>
